@@ -1,0 +1,47 @@
+body{
+    font-size: 20px;
+}
+
+
+.tete img{
+   width: 150px;
+   height: 150px;
+
+
+}
+#UAC{
+    float: left;
+}
+#ENEAM{
+    position: relative;
+    bottom: 120px;
+    float: right;
+    
+}
+#milieu{
+    text-align: center;
+    clear: both;
+    position: relative;
+    top: 80px;
+    right: 50px;
+
+}
+
+#Maphoto{
+    width: 100px;
+    position: relative;
+    /* left: 200px; */
+    top:150px
+    
+
+}
+#cursus{
+    position: relative;
+    top: 200px;
+
+} 
+li{
+    list-style: none;
+}
+
+    

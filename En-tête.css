@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(50, 97, 97);
+    height: 200px;
+    font-size: 20px;
+}
+.Tête{
+    height: 200px;
+}
+#UAC{
+    float: left;
+    
+}
+#ENEAM{
+    position: relative;
+    bottom: 200px;
+    float: right;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+#site{
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    clear: both;
+}
+ul{
+    list-style: none;
+}
+h2{
+    text-align: center;
+}

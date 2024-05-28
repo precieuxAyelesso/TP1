@@ -1,0 +1,31 @@
+body{
+    font-size: 20px;
+}
+table{
+    border-radius: 5px;
+    margin: 150px 150px;
+}
+caption{
+ text-align: center;
+ text-decoration: underline;
+}
+#IG{
+    background-color: red;
+    color: blue;
+}
+#GRH{
+    background-color: yellow;
+}
+#T{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+td{
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 3px;
+    
+    
+}

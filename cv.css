@@ -1,0 +1,15 @@
+body{
+    font-size: 20px;
+}
+.CV{
+    text-align: center;
+    text-decoration: underline;
+
+}
+strong{
+    text-decoration: underline;
+}
+img{
+    width: 150px;  
+}
+
